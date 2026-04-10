@@ -126,6 +126,6 @@ crypto-eda/
 
 ## 👤 Author
 
-**Nasser**
+**Mohammad Rahimi**
 Student @ Rochester Institute of Technology — Dubai
-[LinkedIn](https://linkedin.com/in/yourprofile) • [GitHub](https://github.com/Nasrawi04)
+[LinkedIn](www.linkedin.com/in/mohammad-rahimi-2004n) • [GitHub](https://github.com/Nasrawi04)
